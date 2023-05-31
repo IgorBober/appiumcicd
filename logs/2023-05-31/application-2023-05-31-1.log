@@ -1,0 +1,10 @@
+[${ctx:ROUTINGKEY} INFO ] 2023-05-31 14:39:23.612 BaseTest:172 - appUrl is/Users/amac/IdeaProjects/Appium-TestNG-Android-iOS(BackUp)3/target/classes/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[${ctx:ROUTINGKEY} INFO ] 2023-05-31 14:39:41.941 BaseTest:239 - login with standard_user
+[${ctx:ROUTINGKEY} INFO ] 2023-05-31 14:39:43.625 BaseTest:239 - password is invalidpassword
+[${ctx:ROUTINGKEY} INFO ] 2023-05-31 14:39:44.716 BaseTest:225 - press login button
+[${ctx:ROUTINGKEY} INFO ] 2023-05-31 14:39:47.973 BaseTest:262 - error text is - Username and password do not match any user in this service.
+[${ctx:ROUTINGKEY} INFO ] 2023-05-31 14:39:50.993 BaseTest:239 - login with invalidusername
+[${ctx:ROUTINGKEY} INFO ] 2023-05-31 14:39:52.399 BaseTest:239 - password is secret_sauce
+[${ctx:ROUTINGKEY} INFO ] 2023-05-31 14:39:53.115 BaseTest:225 - press login button
+[${ctx:ROUTINGKEY} INFO ] 2023-05-31 14:39:54.080 BaseTest:262 - error text is - Username and password do not match any user in this service.
+[${ctx:ROUTINGKEY} INFO ] 2023-05-31 14:39:56.469 BaseTest:239 - login with standard_user

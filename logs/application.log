@@ -1,3 +1,7 @@
-[${ctx:ROUTINGKEY} INFO ] 2023-05-30 19:30:28.113 BaseTest:262 - $29.99
-[${ctx:ROUTINGKEY} INFO ] 2023-05-30 19:30:31.883 BaseTest:262 - txt is - Sauce Labs Backpack
-[${ctx:ROUTINGKEY} INFO ] 2023-05-30 19:30:32.255 BaseTest:262 - price is $29.99
+[${ctx:ROUTINGKEY} INFO ] 2023-05-31 14:44:17.466 BaseTest:262 - product page title is - PRODUCTS
+[${ctx:ROUTINGKEY} INFO ] 2023-05-31 14:44:20.901 BaseTest:225 - press SLB title link
+[${ctx:ROUTINGKEY} INFO ] 2023-05-31 14:44:22.851 BaseTest:262 - title is - Sauce Labs Backpack
+[${ctx:ROUTINGKEY} INFO ] 2023-05-31 14:44:23.122 BaseTest:262 - txt is - carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[${ctx:ROUTINGKEY} INFO ] 2023-05-31 14:44:32.588 BaseTest:262 - $29.99
+[${ctx:ROUTINGKEY} INFO ] 2023-05-31 14:44:36.109 BaseTest:262 - txt is - Sauce Labs Backpack
+[${ctx:ROUTINGKEY} INFO ] 2023-05-31 14:44:36.360 BaseTest:262 - price is $29.99

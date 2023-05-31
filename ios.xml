@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <suite name="Suite" parallel="false">
-    <test name="Pixel_2_XL_API_33">
     <listeners>
             <listener class-name="com_qa_listeners.TestListener"/>
     </listeners>>

@@ -17,7 +17,7 @@
                 <configuration>
                     <suiteXmlFiles>
                         <suiteXmlFile>android.xml</suiteXmlFile>
-<!--                        <suiteXmlFile>ios.xml</suiteXmlFile>-->
+                        <suiteXmlFile>ios.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
