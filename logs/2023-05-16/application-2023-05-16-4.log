@@ -1,0 +1,6 @@
+[${ctx:ROUTINGKEY} INFO ] 2023-05-16 18:49:40.926 BaseTest:172 - appUrl is/Users/amac/IdeaProjects/TDDFramework/target/classes/iOS.Simulator.SauceLabs.Mobile.Sample.app.2.7.1.app
+[${ctx:ROUTINGKEY} INFO ] 2023-05-16 18:52:46.788 BaseTest:172 - appUrl is/Users/amac/IdeaProjects/TDDFramework/target/classes/iOS.Simulator.SauceLabs.Mobile.Sample.app.2.7.1.app
+[${ctx:ROUTINGKEY} INFO ] 2023-05-16 18:55:10.615 BaseTest:172 - appUrl is/Users/amac/IdeaProjects/TDDFramework/target/classes/iOS.Simulator.SauceLabs.Mobile.Sample.app.2.7.1.app
+[${ctx:ROUTINGKEY} INFO ] 2023-05-16 18:58:36.625 BaseTest:172 - appUrl is/Users/amac/IdeaProjects/TDDFramework/target/classes/iOS.Simulator.SauceLabs.Mobile.Sample.app.2.7.1.app
+[${ctx:ROUTINGKEY} INFO ] 2023-05-16 18:59:23.073 BaseTest:172 - appUrl is/Users/amac/IdeaProjects/TDDFramework/target/classes/iOS.Simulator.SauceLabs.Mobile.Sample.app.2.7.1.app
+[${ctx:ROUTINGKEY} INFO ] 2023-05-16 19:00:59.218 BaseTest:172 - appUrl is/Users/amac/IdeaProjects/TDDFramework/target/classes/iOS.Simulator.SauceLabs.Mobile.Sample.app.2.7.1.app

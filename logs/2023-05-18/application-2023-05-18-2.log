@@ -1,0 +1,10 @@
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:12:11.637 BaseTest:255 - error text is - Username and password do not match any user in this service.
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:12:17.162 BaseTest:232 - login with standard_user
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:12:18.466 BaseTest:232 - password is secret_sauce
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:12:19.560 BaseTest:218 - press login button
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:12:20.922 BaseTest:218 - press SLB title link
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:12:22.376 BaseTest:255 - title is - Sauce Labs Backpack
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:12:22.549 BaseTest:255 - txt is - carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:12:28.323 BaseTest:255 - $29.99
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:12:28.713 BaseTest:218 - press Settings button
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:12:30.838 BaseTest:218 - press Logout button

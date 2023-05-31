@@ -1,0 +1,11 @@
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:16:11.284 BaseTest:232 - login with standard_user
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:17:41.659 BaseTest:165 - appUrl is/Users/amac/IdeaProjects/TDDFramework/target/classes/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:17:56.775 BaseTest:232 - login with invalidusername
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:17:58.704 BaseTest:232 - password is secret_sauce
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:17:59.948 BaseTest:218 - press login button
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:18:02.310 BaseTest:255 - error text is - Username and password do not match any user in this service.
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:18:07.970 BaseTest:232 - login with standard_user
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:18:09.675 BaseTest:232 - password is secret_sauce
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:18:10.278 BaseTest:218 - press login button
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:18:11.684 BaseTest:218 - press SLB title link
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:18:13.116 BaseTest:255 - title is - Sauce Labs Backpack

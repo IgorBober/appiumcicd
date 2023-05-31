@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="Suite" parallel="false">
+    <test name="Pixel_2_XL_API_33">
+    <listeners>
+            <listener class-name="com_qa_listeners.TestListener"/>
+    </listeners>>
+    <test name="iPhone 14">
+        <listeners>
+            <listener class-name="com_qa_listeners.TestListener"/>
+        </listeners>>
+        <parameter name="emulator" value="true"/>
+        <parameter name="platformName" value="iOS"/>
+        <parameter name="platformVersion" value="16.2"/>
+        <parameter name="udid" value="53C45458-6A04-4E0E-A4E1-B83EF0BCE9D6"/>
+        <parameter name="deviceName" value="iPhone 14"/>
+        <classes>
+            <class name="com_qa_tests.LoginTests">
+<!--                <methods>-->
+<!--                    <include name = "invalidUserName"/>-->
+<!--                </methods>>-->
+            </class>
+                        <class name="com_qa_tests.ProductTests">
+<!--                                        <methods>-->
+<!--                                            <include name = "validateProductOnProductsDetailsPage"/>-->
+<!--                                        </methods>>-->
+                        </class>
+        </classes>
+    </test> <!--Test -->
+</suite> <!--Suite -->

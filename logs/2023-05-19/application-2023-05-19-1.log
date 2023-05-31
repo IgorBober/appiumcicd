@@ -1,0 +1,11 @@
+[${ctx:ROUTINGKEY} INFO ] 2023-05-19 19:17:09.698 BaseTest:232 - login with standard_user
+[${ctx:ROUTINGKEY} INFO ] 2023-05-19 19:17:13.317 BaseTest:232 - password is invalidpassword
+[${ctx:ROUTINGKEY} INFO ] 2023-05-19 19:17:14.787 BaseTest:218 - press login button
+[${ctx:ROUTINGKEY} INFO ] 2023-05-19 19:17:18.176 BaseTest:255 - error text is - Username and password do not match any user in this service.
+[${ctx:ROUTINGKEY} INFO ] 2023-05-19 19:17:23.609 BaseTest:232 - login with invalidusername
+[${ctx:ROUTINGKEY} INFO ] 2023-05-19 19:17:27.942 BaseTest:232 - password is secret_sauce
+[${ctx:ROUTINGKEY} INFO ] 2023-05-19 19:17:29.295 BaseTest:218 - press login button
+[${ctx:ROUTINGKEY} INFO ] 2023-05-19 19:17:32.557 BaseTest:255 - error text is - Username and password do not match any user in this service.
+[${ctx:ROUTINGKEY} INFO ] 2023-05-19 19:17:37.557 BaseTest:232 - login with standard_user
+[${ctx:ROUTINGKEY} INFO ] 2023-05-19 19:17:41.330 BaseTest:232 - password is secret_sauce
+[${ctx:ROUTINGKEY} INFO ] 2023-05-19 19:17:42.681 BaseTest:218 - press login button

@@ -1,0 +1,11 @@
+[${ctx:ROUTINGKEY} INFO ] 2023-05-17 20:21:02.995 BaseTest:229 - password is secret_sauce
+[${ctx:ROUTINGKEY} INFO ] 2023-05-17 20:21:05.575 BaseTest:217 - press login button
+[${ctx:ROUTINGKEY} INFO ] 2023-05-17 20:21:05.589 BaseTest:250 - error text is - Password is required
+[${ctx:ROUTINGKEY} INFO ] 2023-05-17 20:21:08.532 BaseTest:250 - error text is - Username and password do not match any user in this service.
+[${ctx:ROUTINGKEY} INFO ] 2023-05-17 20:21:10.082 BaseTest:229 - login with standard_user
+[${ctx:ROUTINGKEY} INFO ] 2023-05-17 20:21:11.776 BaseTest:229 - login with standard_user
+[${ctx:ROUTINGKEY} INFO ] 2023-05-17 20:21:13.358 BaseTest:229 - password is secret_sauce
+[${ctx:ROUTINGKEY} INFO ] 2023-05-17 20:21:15.010 BaseTest:217 - press login button
+[${ctx:ROUTINGKEY} INFO ] 2023-05-17 20:21:15.042 BaseTest:229 - password is secret_sauce
+[${ctx:ROUTINGKEY} INFO ] 2023-05-17 20:21:27.072 BaseTest:217 - press login button
+[${ctx:ROUTINGKEY} INFO ] 2023-05-17 20:24:45.874 BaseTest:165 - appUrl is/Users/amac/IdeaProjects/TDDFramework/target/classes/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk

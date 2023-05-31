@@ -1,0 +1,2 @@
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:22:28.630 BaseTest:165 - appUrl is/Users/amac/IdeaProjects/TDDFramework/target/classes/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:22:44.321 BaseTest:232 - login with standard_user

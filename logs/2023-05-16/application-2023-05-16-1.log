@@ -1,0 +1,6 @@
+[${ctx:ROUTINGKEY} INFO ] 2023-05-16 15:13:31.991 BaseTest:144 - appUrl is/Users/amac/IdeaProjects/TDDFramework/target/classes/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[${ctx:ROUTINGKEY} INFO ] 2023-05-16 15:13:54.408 BaseTest:144 - appUrl is/Users/amac/IdeaProjects/TDDFramework/target/classes/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[${ctx:ROUTINGKEY} INFO ] 2023-05-16 16:08:37.487 BaseTest:159 - appUrl is/Users/amac/IdeaProjects/TDDFramework/target/classes/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[${ctx:ROUTINGKEY} INFO ] 2023-05-16 16:09:50.241 BaseTest:159 - appUrl is/Users/amac/IdeaProjects/TDDFramework/target/classes/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[${ctx:ROUTINGKEY} INFO ] 2023-05-16 16:10:21.947 BaseTest:159 - appUrl is/Users/amac/IdeaProjects/TDDFramework/target/classes/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[${ctx:ROUTINGKEY} INFO ] 2023-05-16 16:52:34.066 BaseTest:159 - appUrl is/Users/amac/IdeaProjects/TDDFramework/target/classes/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk

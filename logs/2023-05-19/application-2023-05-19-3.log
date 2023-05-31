@@ -1,0 +1,11 @@
+[${ctx:ROUTINGKEY} INFO ] 2023-05-19 20:56:49.583 BaseTest:218 - press login button
+[${ctx:ROUTINGKEY} INFO ] 2023-05-19 20:56:52.871 BaseTest:255 - error text is - Username and password do not match any user in this service.
+[${ctx:ROUTINGKEY} INFO ] 2023-05-19 20:56:56.314 BaseTest:232 - login with invalidusername
+[${ctx:ROUTINGKEY} INFO ] 2023-05-19 20:56:58.024 BaseTest:232 - password is secret_sauce
+[${ctx:ROUTINGKEY} INFO ] 2023-05-19 20:56:58.638 BaseTest:218 - press login button
+[${ctx:ROUTINGKEY} INFO ] 2023-05-19 20:56:59.679 BaseTest:255 - error text is - Username and password do not match any user in this service.
+[${ctx:ROUTINGKEY} INFO ] 2023-05-19 20:57:02.007 BaseTest:232 - login with standard_user
+[${ctx:ROUTINGKEY} INFO ] 2023-05-19 20:57:03.690 BaseTest:232 - password is secret_sauce
+[${ctx:ROUTINGKEY} INFO ] 2023-05-19 20:57:04.332 BaseTest:218 - press login button
+[${ctx:ROUTINGKEY} INFO ] 2023-05-19 20:57:07.194 BaseTest:255 - product page title is - PRODUCTS
+[${ctx:ROUTINGKEY} INFO ] 2023-05-19 20:57:09.452 BaseTest:218 - press SLB title link

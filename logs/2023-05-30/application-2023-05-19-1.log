@@ -1,0 +1,2 @@
+[${ctx:ROUTINGKEY} INFO ] 2023-05-19 20:58:48.906 BaseTest:255 - txt is - Sauce Labs Backpack
+[${ctx:ROUTINGKEY} INFO ] 2023-05-19 20:58:52.635 BaseTest:255 - price is $29.99

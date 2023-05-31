@@ -1,0 +1,10 @@
+[${ctx:ROUTINGKEY} INFO ] 2023-05-19 20:57:10.931 BaseTest:255 - title is - Sauce Labs Backpack
+[${ctx:ROUTINGKEY} INFO ] 2023-05-19 20:57:11.084 BaseTest:255 - txt is - carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[${ctx:ROUTINGKEY} INFO ] 2023-05-19 20:57:17.550 BaseTest:255 - $29.99
+[${ctx:ROUTINGKEY} INFO ] 2023-05-19 20:57:20.398 BaseTest:255 - txt is - Sauce Labs Backpack
+[${ctx:ROUTINGKEY} INFO ] 2023-05-19 20:57:20.883 BaseTest:255 - price is $29.99
+[${ctx:ROUTINGKEY} INFO ] 2023-05-19 20:57:24.385 BaseTest:175 - appUrl is/Users/amac/IdeaProjects/Appium-TestNG-Android-iOS/target/classes/iOS.Simulator.SauceLabs.Mobile.Sample.app.2.7.1.app
+[${ctx:ROUTINGKEY} INFO ] 2023-05-19 20:57:33.163 BaseTest:232 - login with standard_user
+[${ctx:ROUTINGKEY} INFO ] 2023-05-19 20:57:36.930 BaseTest:232 - password is invalidpassword
+[${ctx:ROUTINGKEY} INFO ] 2023-05-19 20:57:38.426 BaseTest:218 - press login button
+[${ctx:ROUTINGKEY} INFO ] 2023-05-19 20:57:42.021 BaseTest:255 - error text is - Username and password do not match any user in this service.

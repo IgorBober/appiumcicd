@@ -1,0 +1,11 @@
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:09:20.523 BaseTest:232 - login with standard_user
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:09:22.200 BaseTest:232 - password is secret_sauce
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:09:23.292 BaseTest:218 - press login button
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:09:24.640 BaseTest:255 - txt is - Sauce Labs Backpack
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:09:24.815 BaseTest:255 - price is $29.99
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:09:24.908 BaseTest:218 - press Settings button
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:09:26.773 BaseTest:218 - press Logout button
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:11:54.298 BaseTest:165 - appUrl is/Users/amac/IdeaProjects/TDDFramework/target/classes/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:12:07.411 BaseTest:232 - login with invalidusername
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:12:08.648 BaseTest:232 - password is secret_sauce
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:12:09.767 BaseTest:218 - press login button

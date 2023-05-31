@@ -1,0 +1,5 @@
+[${ctx:ROUTINGKEY} INFO ] 2023-05-15 17:05:49.515 BaseTest:90 - This is info message
+[${ctx:ROUTINGKEY} ERROR] 2023-05-15 17:05:49.518 BaseTest:91 - This is error message
+[${ctx:ROUTINGKEY} DEBUG] 2023-05-15 17:05:49.518 BaseTest:92 - This is debug message
+[${ctx:ROUTINGKEY} WARN ] 2023-05-15 17:05:49.519 BaseTest:93 - This is warn message
+[${ctx:ROUTINGKEY} INFO ] 2023-05-15 17:36:25.514 BaseTest:126 - appUrl is/Users/amac/IdeaProjects/TDDFramework/target/classes/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk

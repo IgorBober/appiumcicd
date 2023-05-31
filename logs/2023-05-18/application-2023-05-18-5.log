@@ -1,0 +1,11 @@
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:18:13.287 BaseTest:255 - txt is - carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:18:19.104 BaseTest:255 - $29.99
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:18:19.213 BaseTest:218 - press Settings button
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:18:21.058 BaseTest:218 - press Logout button
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:18:24.279 BaseTest:232 - login with standard_user
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:18:25.469 BaseTest:232 - password is secret_sauce
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:18:26.069 BaseTest:218 - press login button
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:18:27.517 BaseTest:255 - txt is - Sauce Labs Backpack
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:18:27.687 BaseTest:255 - price is $29.99
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:18:27.801 BaseTest:218 - press Settings button
+[${ctx:ROUTINGKEY} INFO ] 2023-05-18 21:18:30.270 BaseTest:218 - press Logout button

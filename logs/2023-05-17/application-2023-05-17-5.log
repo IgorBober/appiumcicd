@@ -1,0 +1,10 @@
+[${ctx:ROUTINGKEY} INFO ] 2023-05-17 20:29:54.116 BaseTest:229 - password is secret_sauce
+[${ctx:ROUTINGKEY} INFO ] 2023-05-17 20:29:54.740 BaseTest:217 - press login button
+[${ctx:ROUTINGKEY} INFO ] 2023-05-17 20:29:55.912 BaseTest:250 - error text is - Username and password do not match any user in this service.
+[${ctx:ROUTINGKEY} INFO ] 2023-05-17 20:29:58.288 BaseTest:229 - login with standard_user
+[${ctx:ROUTINGKEY} INFO ] 2023-05-17 20:29:59.937 BaseTest:229 - password is secret_sauce
+[${ctx:ROUTINGKEY} INFO ] 2023-05-17 20:30:01.018 BaseTest:217 - press login button
+[${ctx:ROUTINGKEY} INFO ] 2023-05-17 20:30:02.634 BaseTest:250 - product page title is - PRODUCTS
+[${ctx:ROUTINGKEY} INFO ] 2023-05-17 20:30:05.030 BaseTest:175 - appUrl is/Users/amac/IdeaProjects/TDDFramework/target/classes/iOS.Simulator.SauceLabs.Mobile.Sample.app.2.7.1.app
+[${ctx:ROUTINGKEY} INFO ] 2023-05-17 20:30:13.587 BaseTest:229 - login with standard_user
+[${ctx:ROUTINGKEY} INFO ] 2023-05-17 20:30:17.522 BaseTest:229 - password is invalidpassword

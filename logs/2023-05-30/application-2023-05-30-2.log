@@ -1,0 +1,10 @@
+[${ctx:ROUTINGKEY} INFO ] 2023-05-30 19:18:19.646 BaseTest:255 - product page title is - PRODUCTS
+[${ctx:ROUTINGKEY} INFO ] 2023-05-30 19:18:21.732 BaseTest:218 - press SLB title link
+[${ctx:ROUTINGKEY} INFO ] 2023-05-30 19:18:23.260 BaseTest:255 - title is - Sauce Labs Backpack
+[${ctx:ROUTINGKEY} INFO ] 2023-05-30 19:18:23.416 BaseTest:255 - txt is - carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[${ctx:ROUTINGKEY} INFO ] 2023-05-30 19:18:28.694 BaseTest:255 - $29.99
+[${ctx:ROUTINGKEY} INFO ] 2023-05-30 19:18:31.914 BaseTest:255 - txt is - Sauce Labs Backpack
+[${ctx:ROUTINGKEY} INFO ] 2023-05-30 19:18:32.283 BaseTest:255 - price is $29.99
+[${ctx:ROUTINGKEY} INFO ] 2023-05-30 19:20:55.302 BaseTest:165 - appUrl is/Users/amac/IdeaProjects/Appium-TestNG-Android-iOS(BackUp)2/target/classes/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[${ctx:ROUTINGKEY} INFO ] 2023-05-30 19:21:07.849 BaseTest:232 - login with standard_user
+[${ctx:ROUTINGKEY} INFO ] 2023-05-30 19:21:09.072 BaseTest:232 - password is invalidpassword
