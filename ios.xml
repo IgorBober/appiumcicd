@@ -19,11 +19,11 @@
 <!--                    <include name = "invalidUserName"/>-->
 <!--                </methods>>-->
             </class>
-                        <class name="com_qa_tests.ProductTests">
-<!--                                        <methods>-->
-<!--                                            <include name = "validateProductOnProductsDetailsPage"/>-->
-<!--                                        </methods>>-->
-                        </class>
+<!--            <class name="com_qa_tests.ProductTests">-->
+<!--&lt;!&ndash;                 <methods>&ndash;&gt;-->
+<!--&lt;!&ndash;                     <include name = "validateProductOnProductsDetailsPage"/>&ndash;&gt;-->
+<!--&lt;!&ndash;                 </methods>>&ndash;&gt;-->
+<!--            </class>-->
         </classes>
     </test> <!--Test -->
 </suite> <!--Suite -->
